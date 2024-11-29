@@ -59,7 +59,10 @@
 				"wireguard-tools",
 				"xprop",
 				"wl-clipboard",
-				"zsh"
+				"zsh",
+				"1password",
+				"1password-cli",
+				"brave-browser"
 			],
 			"silverblue": [
 				"cryfs",
